@@ -1,0 +1,17 @@
+{
+  "name": "aula-10-01-mod-03-sem-05",
+  "version": "1.0.0",
+  "description": "Projeto Jest para aula da Ultima School",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Raquel Gomes",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
