@@ -17,3 +17,5 @@ function divisao(a, b) {
 
 module.exports = {soma, subtracao, multiplicacao, divisao}
 
+// testando o CI
+
